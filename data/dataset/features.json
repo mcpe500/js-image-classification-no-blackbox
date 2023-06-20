@@ -1,0 +1,64 @@
+{
+    "featureNames": [
+        "Path Count",
+        "Point Count"
+    ],
+    "samples": [
+        {
+            "point": [
+                5,
+                677
+            ],
+            "label": "car"
+        },
+        {
+            "point": [
+                3,
+                422
+            ],
+            "label": "fish"
+        },
+        {
+            "point": [
+                3,
+                332
+            ],
+            "label": "house"
+        },
+        {
+            "point": [
+                1,
+                387
+            ],
+            "label": "tree"
+        },
+        {
+            "point": [
+                6,
+                351
+            ],
+            "label": "bicycle"
+        },
+        {
+            "point": [
+                9,
+                543
+            ],
+            "label": "guitar"
+        },
+        {
+            "point": [
+                2,
+                365
+            ],
+            "label": "pencil"
+        },
+        {
+            "point": [
+                2,
+                153
+            ],
+            "label": "clock"
+        }
+    ]
+}
